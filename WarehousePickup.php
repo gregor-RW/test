@@ -3,6 +3,8 @@
 * Client wishes to have a Warehouse Pickup method to show up if:
 * 1. Shipping Address State is in California (must be configured in core_config_data)
 * 2. $0.0 cost
+*
+* Code environment: PHP 7.2
 */
 
 namespace Test\WarehousePickup\Model\Carrier;
